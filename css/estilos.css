@@ -40,12 +40,13 @@ body
 #container h1
 {
     font-size: 20px;
+    border: #9e1010;
 }
 #post
 {
     background-color: bisque;
     text-justify: auto;
-    
+
 }
 #footer
 {
