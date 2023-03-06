@@ -41,8 +41,10 @@ body
 {
     font-size: 20px;
 }
-#post
+#footer
 {
-    background-color: beige;
-    padding: 1em;
+    background: aquamarine;
+    color: black;
+    text-align: center;
+    padding: 0.5em;
 }
