@@ -43,6 +43,14 @@ body
 }
 #post
 {
-    background-color: beige;
-    padding: 1em;
+    background-color: bisque;
+    text-justify: auto;
+    
+}
+#footer
+{
+    background: aquamarine;
+    color: black;
+    text-align: center;
+    padding: 0.5em;
 }
